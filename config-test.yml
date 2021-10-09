@@ -1,2 +1,2 @@
-info:
-    config: branch master,test config
+config:
+    info: branch master,test config
